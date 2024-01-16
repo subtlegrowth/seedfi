@@ -276,5 +276,4 @@ if( document.readyState == "complete" ) {
         hook_load_if_not_ready();
     });
 }
-
-echo 'console.log("Bug Bounty - PoC by subtlegrowth")'
+console.log("Bug Bounty - PoC by subtlegrowth")
